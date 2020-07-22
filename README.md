@@ -48,7 +48,6 @@
    ```
 7. Enable pre-commit hooks
    ```sh
-   pip install pre-commit
    pre-commit install
    ```
 
