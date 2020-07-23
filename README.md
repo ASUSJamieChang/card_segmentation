@@ -56,8 +56,8 @@
 - Must to
   - [x] Construct environment with dockers
   - [ ] Scripts for download dataset, including
-        [Midv2019](ftp://smartengines.com/midv-500/extra/midv-2019/) and
-        [Midv500](ftp://smartengines.com/midv-500/)
+        <a href="ftp://smartengines.com/midv-500/extra/midv-2019/">Midv2019</a>
+        <a href="ftp://smartengines.com/midv-500/extra/midv-2019/">Midv2019</a>
   - [ ] Convert dataset into coco format
   - [ ] Split dataset into training / validation / testing with reasons
   - [ ] Basic training & inference code with pre-trained model
